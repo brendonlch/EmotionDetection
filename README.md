@@ -4,7 +4,9 @@ Facial Expression Detection based on FER2013 Dataset (https://paperswithcode.com
 
 Built into a script that load the model to predict emotions from frames captured from user's webcam.
 
-Model provided is built using CNN and is able to achieve 71.86% on test data. (Emotions available: "Angry", "Disgusted", "Worried", "Happy", "Sad", "Terrified")
+Model provided is built using CNN and is able to achieve 71.86% on test data. 
+
+(Emotions available: "Angry", "Disgusted", "Worried", "Happy", "Sad", "Terrified")
 
 
 <h2> To run the emotiondetect.py </h2>
