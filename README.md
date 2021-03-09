@@ -9,4 +9,6 @@ Model provided is built using CNN and is able to achieve 71.86% on test data.
 
 ```
 py emotiondetect.py --json [your model] --weights [your weights] 
+
+# e.g. py emotiondetect.py --json model.json --weights weights.h5
 ```
